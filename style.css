@@ -11750,3 +11750,28 @@ fieldset:disabled .btn {
 .txt{
     font-size: 32px;
 }
+.container1{
+    width: 30%;
+}
+.container2{
+    width: 50%;
+}
+.cards{
+    border-radius: 20px;
+}
+.cardimg{
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+}
+.cards{
+    border: 20px;
+    margin: 0px 20px;
+}
+.container3{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    bottom: 125px;
+}
