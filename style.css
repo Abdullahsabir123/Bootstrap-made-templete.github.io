@@ -598,7 +598,7 @@ progress {
 
 .img-fluid {
     max-width: 100%;
-    height: auto
+    height: auto;
 }
 
 .img-thumbnail {
@@ -607,11 +607,11 @@ progress {
     border: 1px solid #dee2e6;
     border-radius: .25rem;
     max-width: 100%;
-    height: auto
+    height: auto;
 }
 
 .figure {
-    display: inline-block
+    display: inline-block;
 }
 
 .figure-img {
@@ -11774,4 +11774,7 @@ fieldset:disabled .btn {
     flex-wrap: wrap;
     position: relative;
     bottom: 125px;
+}
+.zindex{
+    z-index:999px;
 }
